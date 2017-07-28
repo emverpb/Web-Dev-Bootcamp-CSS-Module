@@ -1,0 +1,56 @@
+img {
+	width: 30%;
+	padding: 1%;
+}
+
+div:nth-of-type(2) img:nth-of-type(3) {
+	width: 23%;
+	padding-right: 14.5px;
+	padding-left: 14.5px;
+}
+
+body {
+	border: 20px solid #bdc3c7;
+	width: 65%;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 1.66%;
+}
+
+h4 {
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	color: #3498db;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: "source sans pro"
+}
+
+h1 {
+	font-family: "source sans pro";
+	font-weight: 900
+	color: #2c3e50;
+}
+
+p {
+	font-family: "source sans pro";
+	font-size: 14px
+}
+
+div {
+	width: 90%;
+	margin: auto;
+
+}
+
+.intro {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
